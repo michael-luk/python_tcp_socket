@@ -1,8 +1,6 @@
 # python_tcp_socket
 
-Scripts for client to connect to server, send/receive messages(echo), and server will send "alive" message to client every few seconds to keed the connection.
-
-Running on Python 2.7
+Python 2.7 scripts for client to connect to server, send/receive messages(echo), and server will send "alive" message to client every few seconds to keep the connection.
 
 You can see the command line example in following screenshots.
 
