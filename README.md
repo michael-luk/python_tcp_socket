@@ -6,7 +6,7 @@ You can see the command line example in following screenshots.
 
 Remember the message must be in quotes when you run it on command line.
  
-![Image text](https://raw.githubusercontent.com/michael-luk/images/master/python_server_cli.png)
+![Image text](http://www.woyik.com/img/python_server_cli.png)
 
 
-![Image text](https://raw.githubusercontent.com/michael-luk/images/master/python_client_cli.png)
+![Image text](http://www.woyik.com/img/python_client_cli.png)
